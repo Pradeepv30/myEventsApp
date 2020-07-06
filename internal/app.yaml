@@ -1,0 +1,5 @@
+runtime: nodejs10
+service: events-backend
+
+env_variables:
+  PORT: "8080"

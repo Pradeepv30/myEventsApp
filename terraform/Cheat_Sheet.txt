@@ -1,0 +1,8 @@
+# Run this first
+terraform init
+
+# Create everything
+terraform apply -auto-approve
+
+# Delete everything
+terraform destroy -auto-approve
